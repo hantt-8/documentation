@@ -20,7 +20,7 @@ Open PowerShell and follow this guide: (installs WSL then WSL2)
 dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
 ```
 
-```
+```powershell
 dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
 ```
 
