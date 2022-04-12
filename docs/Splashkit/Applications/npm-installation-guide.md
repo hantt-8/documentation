@@ -12,7 +12,7 @@ Npm is used to check markdown files (md) to match Prettier (plug-in) and needs N
 
 Open PowerShell and follow this guide: (installs WSL then WSL2)
 
-```
+```powershell
  wsl --install
 ```
 
