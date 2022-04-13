@@ -1,8 +1,8 @@
-# Npm installation guide: Windows and Mac
+# npm installation guide
 
-###### (scroll down for Mac instructions)
+_(scroll down for Mac instructions)_
 
-### What does npm do?
+## What does npm do?
 
 Npm is used to check markdown files (md) to match Prettier (plug-in) and needs Node.js to run properly.
 
