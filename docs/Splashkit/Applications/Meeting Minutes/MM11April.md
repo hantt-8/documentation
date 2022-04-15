@@ -2,13 +2,13 @@
 
 Monday: 11/04/2022
 
-Attendees at 4:40: [Lily-yyyy], Nick Agiazis, Anthony George, Sarah Gosling, Riley Nicholas Dellios, [MorgaineBarter], Bella Chhour (at 5:10)
+Attendees at 4:40: Lily Lan, Nick Agiazis, Anthony George, Sarah Gosling, Riley Nicholas Dellios, Morgaine Barter, Bella Chhour (at 5:10)
 
 Absent: Huy Pham
 
 Next meeting: 14/4/2022 6pm Thursday
 
-Minutes by : [MorgaineBarter] and [AnthonyGeorge]
+Minutes by : Morgaine Barter and Anthony George
 
 ## Agenda: (not specified)
 
